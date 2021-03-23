@@ -1,12 +1,12 @@
 # Capstone-Project-I---Variables-and-Control-Structures
 
-Compulsory Task 1:
+Compulsory Task 1 (InvestmentCalculator.py):
 
 This program is an investment calculator and calculates the future value of an investment.
 
 The user inputs the initial deposit amount, the interest rate, the number of years invested, and if the interest should be simple or compound. These values are stored as variables, which are then used to calculate the future value, which is printed to the screen.
 
-Compulsory Task 2:
+Compulsory Task 2 (Lottery.py):
 
 This program lets the user play the lottery. It compares a random number to one entered by the user and determines if the user won anything.
 
