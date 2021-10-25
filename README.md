@@ -1,4 +1,4 @@
-# Capstone-Project-I---Variables-and-Control-Structures
+# Variables_and_Control_Structures_Project
 
 Compulsory Task 1 (InvestmentCalculator.py):
 
